@@ -22,7 +22,7 @@ Este projeto analisa as estatísticas de chutes de jogadores em várias competi�
 
 ## Descrição
 
-O script principal (`main.py`) permite ao usuário escolher uma liga e duas equipes para comparar os melhores jogadores com base em suas estatísticas de chutes. As estatísticas incluem:
+O script principal (`analise.py`) permite ao usuário escolher uma liga e duas equipes para comparar os melhores jogadores com base em suas estatísticas de chutes. As estatísticas incluem:
 - Total de chutes.
 - Chutes no alvo.
 - Média de chutes por jogo (chutes/90 minutos).
