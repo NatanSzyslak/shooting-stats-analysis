@@ -47,3 +47,12 @@ Os dados são carregados de arquivos JSON contendo informações detalhadas sobr
 2. Instale as bibliotecas necessárias:
    ```bash
    pip install tabulate colorama
+
+## Exemplo de Uso
+
+Aqui está como o programa se parece ao ser executado:
+
+![Exemplo de Saída no Terminal](https://github.com/NatanSzyslak/shooting-stats-analysis/blob/main/prnt.png)
+
+1. Escolha uma liga:
+2. Escolha as euipes que vão se enfrentar
